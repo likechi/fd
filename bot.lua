@@ -294,11 +294,11 @@ function get_bot (i, adigram)
 ✍امار 🖥⚡️]] .. tostring(fname) .. [[⚡
 ]] .. tostring(sima) .. [[ </b> 
 🌹➖🌹➖🌹➖🌹
-p v <b>]] .. tostring(usrs) .. [[</b> 
+💠 p v :  <b>]] .. tostring(usrs) .. [[</b> Ⓜ️
 🎎 <b>]] .. tostring(gps) .. [[</b> گروه عادی
-⬅ super group<b>]] .. tostring(sgps) .. [[</b> 
+<b>]] .. tostring(sgps) .. [[</b> 💤Super Groups
 ⛓ <b>]] .. tostring(wlinks)..[[</b> لینک شناسایی کرده
-📊 <b>]] .. tostring(links)..[[</b> لینک عضو و ذخیره کرده
+📊 <b>]] .. tostring(links)..[[</b> links join and seved
 ➿ <b>]] .. tostring(glinks)..[[</b> لینک در انتظار عضویت
 ⚙⏰ <b>]] .. tostring(s)..[[</b> ثانیه تا عضویت مجدد
 🌀 <b>]] .. tostring(ss)..[[</b> ثانیه تا بررسی لینک عضویت
